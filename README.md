@@ -1,1 +1,1 @@
-dashboard : https://mayahamdy.github.io/TD1_BI/ 
+dashboard : https://mayahamdy.github.io/eu-capitals-dashboard/ 
